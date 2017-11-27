@@ -10,6 +10,6 @@ This is my 360 project
 
 This is my Camera Effects Project
 
-![picture_title](https://github.com/DocHoliday1/DocHoliday1.github.io/blob/master/TechStart%20Project%201.jpg?raw=true "Optional Title")
+![TechStart_Project_1](https://github.com/DocHoliday1/DocHoliday1.github.io/blob/master/TechStart%20Project%201.jpg?raw=true "Optional Title")
 
 ***
