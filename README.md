@@ -11,5 +11,5 @@ This is my 360 project
 
 This my Camera Effects Project
 
-![TechStart_Project_1](TechStart Project 1.jpg?raw=true "Optional Title")
+![TechStart_Project_1](Portfolio/TechStart Project 1.jpg?raw=true "Optional Title")
 
